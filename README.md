@@ -42,6 +42,8 @@ pip install -r requirements.txt
 
 # Start the development server
 python app.py
+```
+
 🛡️ License
 This project is licensed under the MIT License.
 
@@ -61,27 +63,3 @@ Smart assistant for budget or premium travel
 
 📬 Contact
 Feel free to open an issue or connect with us for collaboration!
-
-yaml
-Copy
-Edit
-
----
-
-## ✅ Suggested Setup During Repo Creation
-
-| Option | Recommended Selection |
-|--------|------------------------|
-| **Visibility** | `Public` (for open-source, collaboration) |
-| **Initialize with README** | ✅ |
-| **.gitignore** | Python / Node / Streamlit (based on tech stack) |
-| **License** | MIT / Apache 2.0 (for open-source freedom) |
-
----
-
-Let me know if you'd like:
-- A custom logo or banner for your repo
-- A GitHub Pages site for this project
-- A full directory structure (backend, frontend, AI modules)
-
-I'm happy to help build it out!
